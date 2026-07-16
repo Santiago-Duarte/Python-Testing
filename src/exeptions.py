@@ -1,0 +1,2 @@
+class WithdrowalTimeRestrictionError(Exception):
+    pass
